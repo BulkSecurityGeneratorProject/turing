@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.turing",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "turing",
+    "packageName": "com.turing",
+    "packageFolder": "com/turing",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDhiYTc0N2ZhMmVjOWVkMTRkYmJlZGU5ZjYwOTU1ZDdkMzhlY2NhNjBhNDE3NjI3ZGIxNmNlNGY4NWM0NzQ4NjU2ZmRlZTY1MDVlNGNhMzBmNWQxNGY2Y2NiZmEwYjUwYzczY2RjNzgyZGFjNDg2MzkyOWU3MzU5ZTgyYTkzZDM=",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "id"
+    ],
+    "skipClient": true
+  }
+}
